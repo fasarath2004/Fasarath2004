@@ -1,8 +1,14 @@
-<h1 align="center">Hi there, I'm Fajeer Fasarath 👋</h1>
-<h3 align="center">IT Undergraduate | Aspiring Full-Stack & AI Developer | Problem Solver</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:6C3483&height=220&section=header&text=Fajeer%20Fasarath&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Undergraduate%20%7C%20Flutter%20%26%20AI%20Developer&descAlignY=55&descSize=20" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Flutter+%2B+Firebase+Developer;AI%2FML+Enthusiast;Building+CareerPulse+AI;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fasarath&label=Profile%20Views&color=2E86C1&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Fasarath?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
@@ -75,6 +81,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fasarath&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fasarath&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fasarath/Fasarath/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</p>
+
+> ⚙️ Snake animation needs a one-time GitHub Actions setup — see setup note at the bottom of this file.
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</p>
+
 ---
 
 ### 🏆 Beyond Code
@@ -95,3 +123,26 @@
 </p>
 
 <p align="center"><i>⭐️ From <a href="#">Fasarath</a> — thanks for stopping by!</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,100:2E86C1&height=100&section=footer" width="100%"/>
+</p>
+
+<!--
+🔧 SETUP NOTES (delete this comment once done):
+
+1. Repo name must exactly match your GitHub username, e.g. Fasarath/Fasarath,
+   for this README to appear on your profile page.
+
+2. Profile view counter & badges: no setup needed, they work automatically.
+
+3. Snake animation (contribution graph):
+   - Go to your repo → Settings → Secrets → add nothing needed, it's public API.
+   - Create .github/workflows/snake.yml with the "Platane/snk" action
+     (search "github contribution snake action" for the 10-line YAML).
+   - It generates the animated snake automatically on a schedule.
+
+4. Trophies, streak stats, and quote widgets: fully automatic once your
+   username is public — no extra setup.
+-->
+
